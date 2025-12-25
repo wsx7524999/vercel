@@ -2,7 +2,35 @@
   "name": "vercel-monorepo",
   "version": "0.0.0",
   "private": true,
+  "description": "Vercel's AI Cloud - A unified platform for building modern applications",
+  "keywords": [
+    "vercel",
+    "deployment",
+    "serverless",
+    "cloud",
+    "cli",
+    "frontend",
+    "jamstack",
+    "nextjs",
+    "react",
+    "platform"
+  ],
+  "homepage": "https://github.com/wsx7524999/vercel#readme",
+  "bugs": {
+    "url": "https://github.com/wsx7524999/vercel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsx7524999/vercel.git"
+  },
   "license": "Apache-2.0",
+  "author": "Vercel Inc. and wsx7524999",
+  "contributors": [
+    {
+      "name": "Ricardo Gonzalez",
+      "url": "https://github.com/ricardo-agz"
+    }
+  ],
   "packageManager": "pnpm@8.3.1",
   "devDependencies": {
     "@changesets/cli": "2.27.8",

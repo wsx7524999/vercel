@@ -24,6 +24,7 @@ Contributors who have submitted pull requests or made significant contributions 
 ## Acknowledgments
 
 Special thanks to:
+
 - The Vercel team for creating and maintaining the original project
 - All contributors to the upstream Vercel project
 - The open-source community for their valuable feedback and contributions

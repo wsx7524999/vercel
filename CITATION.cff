@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: 'If you use this software, please cite it as below.'
 type: software
-title: "Vercel"
+title: 'Vercel'
 abstract: "Develop. Preview. Ship. Vercel's AI Cloud is a unified platform for building modern applications."
 authors:
-  - name: "Vercel Inc."
-    website: "https://vercel.com"
-  - name: "wsx7524999"
-    website: "https://github.com/wsx7524999"
-repository-code: "https://github.com/wsx7524999/vercel"
-url: "https://vercel.com"
+  - name: 'Vercel Inc.'
+    website: 'https://vercel.com'
+  - name: 'wsx7524999'
+    website: 'https://github.com/wsx7524999'
+repository-code: 'https://github.com/wsx7524999/vercel'
+url: 'https://vercel.com'
 license: Apache-2.0
 keywords:
   - vercel
@@ -22,5 +22,5 @@ keywords:
   - next.js
   - react
   - platform
-version: "0.0.0"
-date-released: "2024-01-01"
+version: '0.0.0'
+date-released: '2024-01-01'
